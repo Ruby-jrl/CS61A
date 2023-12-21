@@ -1,4 +1,5 @@
-# this file records the progress
+# Progress sheet
+This file records the progress, including content, time spent, etc.
 
 | Week (in cs61a schedule)  | Textbook reading |  Lecture/Q&A  | Notes | Lab | HW/Project |
 | ------------------------- | ---------------- | ------------- | ----- | --- | ---------- |

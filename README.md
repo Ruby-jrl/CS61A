@@ -9,4 +9,4 @@ This repo includes all study materials I use for CS61A:
 - lab
 - HW
 - Project
-- for more inspirations: https://github.com/half-dreamer/CS61A-20fa
+- for more resources and inspiration: https://github.com/half-dreamer/CS61A-20fa, https://github.com/alebricio/cs61a
